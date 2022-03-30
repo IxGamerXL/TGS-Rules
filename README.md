@@ -1,5 +1,11 @@
 # TGS Rules & Details
 
+[GOTO RULES](https://github.com/IxGamerXL/TGS-Rules/blob/main/README.md#rules)
+
+[GOTO CURRENCY](https://github.com/IxGamerXL/TGS-Rules/blob/main/README.md#currency)
+
+[GOTO CODE](https://github.com/IxGamerXL/TGS-Rules/blob/main/README.md#code)
+
 ## RULES
 
 ### #1: No Binary Bytes
