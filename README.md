@@ -27,7 +27,7 @@ Be decent, remain respectful, and pay attention to supervisors. We may all be di
 ## CURRENCY
 Our currency is referred as Hexidecimals or H$ for short. H$ is either referred by a simple number, or by `0x--`. Hexidecimal values can be increased in length by adding more digits to them (e.g: `0xff` -> `0x01ff`).
 
-Hexidecimals can contain 16 million times the amount that one Binary byte can store using `0xffffffff`, making this the preferred currency for any purchases in TGS.
+Hexidecimals can contain >16 million times the amount that one Binary byte can store using `0xffffffff`, making this the preferred currency for any purchases in TGS.
 
 You can refer a value of H$ by using Hexidecimal or plain numbers (if you can't translate).
 
