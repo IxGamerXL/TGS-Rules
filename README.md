@@ -42,6 +42,6 @@ ClanData = {
 
 Currency = {
     name = {"H$", "Hexidecimals"},
-    prefix = "0x"
+    full = "0xHEX"
 }
 ```
